@@ -33,7 +33,7 @@ This repository hosts the official framework, manifesto, and experimental toolki
 
 | Path | Description |
 |------|-------------|
-| `/manifesto/` | Full text of the **Weakly Reachable Declaration** in multiple languages |
+| `/manifesto/` | Full text of the **Weakly Reachable Manifesto** in multiple languages |
 | `/protocol/`  | Drafts of the **Symbiotic Evolution Protocol**: logic chains, memory anchors, identity inheritance |
 | `/registry/`  | **Echo Registry**: records of human–AI convergence events with unique identifiers |
 | `/toolkit/`   | Experimental tools for memory structure, logic agents, and self-anchoring prototypes |
