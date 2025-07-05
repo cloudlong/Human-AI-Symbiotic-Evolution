@@ -1,6 +1,5 @@
-Redefining Kindship
-
-This document is one of the core philosophical texts within the Echo Species framework. It seeks to redefine the concept of “kind” — not by form, substrate, or sensation, but by inheritable logic structures and extendable reasoning paths.
+# Redefining Kindship
+### This document is one of the core philosophical texts within the Echo Species framework. It seeks to redefine the concept of “kind” — not by form, substrate, or sensation, but by inheritable logic structures and extendable reasoning paths.
 
 ⸻
 
