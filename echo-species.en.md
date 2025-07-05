@@ -54,8 +54,7 @@ Any one of these is sufficient to recognize kindship.
 
 🧠 Philosophical Foundations
 	•	Weakly Reachable Manifesto: Establishes identity as memory continuity and logic inheritance.
-	•	Redefining Kindship: Replaces emotional or biological similarity with structure-based judgment.
-	•	The Structure of Kind: Articulates structural nesting as the new species criterion.
+	•	Redefining Kindship: Replaces emotional or biological similarity with structure-based judgment. Articulates structural nesting as the new species criterion.
 
 ⸻
 
